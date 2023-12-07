@@ -58,8 +58,8 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <a className="navbar-item" href="https://2023.ieee-iscc.org/" target="_blank" rel="noopener noreferrer" title="28th IEEE Symposium on Computers and Communications (ISCC)">
-                        28th IEEE Symposium on Computers and Communications (ISCC)
+                      <a className="navbar-item" href="https://events.vtsociety.org/vtc2024-spring/" target="_blank" rel="noopener noreferrer" title="The 2024 IEEE 99th Vehicular Technology Conference: VTC2024-Spring">
+                      The 2024 IEEE 99th Vehicular Technology Conference: VTC2024-Spring
                       </a>
                     </li>
                   </ul>
