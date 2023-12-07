@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: "OWC-2023",
-    description: " 1st IEEE ISCC Workshop on Optical Wireless Communications (OWC’23) ",
-    siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/owc-2023/`,
+    title: "OWC-2024",
+    description: "Workshop on Optical Wireless Communications for 6G (OWC’24)",
+    siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/owc-2024/`,
     social: {
       facebook: `https://www.facebook.com/JapanOCWConsortium/`,
     },
   },
-  pathPrefix: `/owc2023`,
+  pathPrefix: `/owc2024`,
   plugins: [
     "gatsby-plugin-image",
     {

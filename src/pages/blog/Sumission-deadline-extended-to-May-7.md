@@ -3,7 +3,8 @@ templateKey: blog-post
 title: May 7, 2023 is the extended new submission deadline.
 date: 2023-4-15T00:42:10.000Z
 featuredpost: true
-featuredimage: /img/og-image.jpg
+featuredimage: /img/og-image.webp
+
 description: IEEE OWC Workshop accepts only novel, previously unpublished papers in optical wireless communications.
 tags:
   - OWC’23
