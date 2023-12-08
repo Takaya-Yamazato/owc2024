@@ -32,6 +32,7 @@ intro:
 - Alves, Luis Nero	(University of Aveiro, Portugal)
 - Alves, Joao	(CMRE NATO, Italy)
 - Belmonte, Aniceto	(Technical University of Catalonia, BarcelonaTech, Spain)
+- Biagi, Mauro	(Sapienza University of Rome, Italy)
 - Brandt-Pearce, Maite	(University of Virginia, USA)
 - Chujo, Wataru	(Meijo University, Japan)
 - Djordjevic, Ivan	(University of Arizona, USA)
