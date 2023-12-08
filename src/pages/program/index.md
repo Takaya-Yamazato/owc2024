@@ -5,7 +5,7 @@ title: Program
 image: /img/jumbotron.webp
 ---
 
-We will provide detail program.
+We will provide a detailed program as soon as possible.
 
 Stay tuned!
 
