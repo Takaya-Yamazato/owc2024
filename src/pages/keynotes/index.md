@@ -9,7 +9,9 @@ intro:
     - image: Nan_Chi.jpg
       chair: Prof. Nan Chi (Fudan University, China)
       text: > 
+        <p align="justify">
         received a B.S. degree and Ph.D. degree in electrical engineering from the Beijing University of Posts and Telecommunications, Beijing, China, in 1996 and 2001, respectively. From July 2001 to December 2004, she worked as an assistant professor at the Research Center COM, Technical University of Denmark, Lyngby, Denmark. From January 2005 to April 2006, she was a research associate at the University of Bristol, Bristol, United Kingdom. She joined Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology from June 2006 to May 2008, where she worked as a full professor. Since May 2008, she joined Fudan University. She is the author or co-author of more than 100 papers. Her research interests are in the area of convergence of wireless and optical networks, all-optical processing, and advanced modulation formats.
+        </p>
         
     - image: Chi_Wai_Chow.jpg
       chair: Prof. Chi-Wai Chow (National Yang Ming Chiao Tung University, Taiwan) 
