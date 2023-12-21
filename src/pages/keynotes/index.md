@@ -1,6 +1,6 @@
 ---
 templateKey: "committee"
-path: /Keynotes
+path: /keynotes
 title: Keynotes
 image: /img/jumbotron.webp
 heading: Keynote Speakers
