@@ -55,6 +55,7 @@ intro:
 - Little, Thomas	(Boston University, USA)
 - Lopez-Hernandez, Francisco	(Universidad Politecnica de Madrid, Spain)
 - Loscrì, Valeria	(INRIA, France)
+- Monteiro, Paulo (University of Aveiro, Portugal) 
 - Nirmalathas, Ampalavanapillai	(University of Melbourne, Australia)
 - Popoola, Wasiu	(University of Edinburgh, UK)
 - Sadler, Brian	(Army Research Laboratory, USA)
