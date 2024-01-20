@@ -11,7 +11,7 @@ image: /img/jumbotron.webp
 
 |                          |                                                 |
 | ------------------------ | ----------------------------------------------- |
-| Submission Deadline:     | January 18, 2024|
+| Submission Deadline:     | January 29, 2024 (EXTENDED)|
 | Acceptance Notification: | February 15, 2024                                   |
 | Camera Ready:            | March 8, 2024                             |
 
