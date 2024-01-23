@@ -36,6 +36,7 @@ intro:
 - Biagi, Mauro	(Sapienza University of Rome, Italy)
 - Brandt-Pearce, Maite	(University of Virginia, USA)
 - Chujo, Wataru	(Meijo University, Japan)
+- Catalan, Marisa (i2CAT, Spain) 
 - Djordjevic, Ivan	(University of Arizona, USA)
 - Elmirghani, Jaafar (Kings College London, UK)
 - Green, Roger	(University of Warwick, UK)
